@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is just for learning nodejs and git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avi2801/webdev.git"
+  },
+  "author": "Avinash Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avi2801/webdev/issues"
+  },
+  "homepage": "https://github.com/avi2801/webdev#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
